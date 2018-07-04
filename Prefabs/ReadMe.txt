@@ -1,0 +1,1 @@
+This camera rig is strictly for use with gazecast script. 
